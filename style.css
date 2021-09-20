@@ -1,0 +1,114 @@
+body{
+	background-color: black;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+	text-decoration: none;
+}
+ul{
+	display: flex;
+	list-style: none;
+	justify-content: center;
+}
+li{
+	padding: 1rem;
+	margin: 0.5rem;
+}
+
+header{
+	color: white;
+	font-size: 1.5rem;
+	font-family: Arial Black, sans-serif, monospace;
+}
+.para{
+	margin-top: 15rem;
+}
+.toplevel{
+	margin-top: 5rem;
+}
+p{
+	color: white;
+	font-size: 1.5rem;
+	font-family: Arial Black, sans-serif, monospace;
+	float: left;
+}
+pdate{
+	color: white;
+	font-size: 1.3rem;
+	font-family: Arial, sans-serif, monospace;
+	float: left;
+	font-style: oblique;
+}
+pb{
+	color: white;
+	font-size: 3rem;
+	font-family: Arial Black, sans-serif, monospace;
+	float: left;
+}
+ptb{
+	color: white;
+	font-size: 3rem;
+	font-family: Arial Black, sans-serif, monospace;
+	float: left;
+	font-style: oblique;
+}
+
+ptbs{
+	color: white;
+	font-size: 2rem;
+	font-family: Arial Black, sans-serif, monospace;
+	float: left;
+	font-style: oblique;
+}
+ptbm{
+	color: white;
+	font-size: 2.7rem;
+	font-family: Arial Black, sans-serif, monospace;
+	float: left;
+	font-style: oblique;
+}
+ptbss{
+	color: white;
+	font-size: 1.7rem;
+	font-family: Arial Black, sans-serif, monospace;
+	float: left;
+	font-style: oblique;
+}
+pbb{
+	color: white;
+	font-size: 4rem;
+	font-family: Arial Black, sans-serif, monospace;
+	float: left;
+}
+pc{
+	color: white;
+	font-size: 1.5rem;
+	font-family: Arial Black, sans-serif, monospace;
+	float: left;
+	font-style: oblique;
+	display: flex;
+	justify-content: center;
+}
+.guitarpic > img{
+	float: right;
+	width: 85%;
+	height: auto;
+}
+.gancaption {
+	display: flex;
+	justify-content: center;
+}
+.buffer{
+	height: 150px;
+}
+.minibuffer{
+	height: 50px;
+}
+.top{
+	display: flex;
+	justify-content: center;
+}
